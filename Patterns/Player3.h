@@ -4,7 +4,10 @@
 class Player3 : public Character3
 {
 public:
-	~Player3() {};
+	~Player3() 
+	{
+		delete api;
+	};
 	Player3(DrawAPI* api) { this->api = api; }
 	void Draw() { api->Draw(); }
 private:
