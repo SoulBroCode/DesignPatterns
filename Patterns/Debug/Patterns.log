@@ -1,0 +1,4 @@
+﻿  Patterns.cpp
+c:\users\linh\desktop\patterns\patterns\patterns.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Patterns.vcxproj -> C:\Users\linh\Desktop\Patterns\Debug\Patterns.exe
+  Patterns.vcxproj -> C:\Users\linh\Desktop\Patterns\Debug\Patterns.pdb (Full PDB)
